@@ -1,0 +1,17 @@
+name: Shadow
+author: StaRiToRe
+version: 2.0-DEV
+main: fr.taeron.shadow.Shadow
+commands: 
+  toggleshadow:
+  alerts:
+  check:
+  verif:
+  shadowban:
+    aliases: [sban]
+  logshistory:
+    aliases: [logs]
+  shadow:
+  cancelautoban:
+  judgementday:
+    aliases: [jd]
